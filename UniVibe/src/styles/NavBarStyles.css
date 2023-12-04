@@ -1,13 +1,24 @@
 .image{
-    margin-left: 100px;
-    position: absolute;
     scale: 0.5;
+    margin-top: -10px;
+    display: inline-block;
 }
 
 .UserProfile{
     font-size: large;
 }
 
-.HeaderContainer{
-    background-color: blue;
+.NavBarContainer{
+    background: #049DD8;
+    height: 40px;
+}
+
+li{
+    list-style-type: none;
+    float: right;
+}
+
+.navbarElements{
+    padding-left: 10px;
+    padding-right: 10px;
 }
