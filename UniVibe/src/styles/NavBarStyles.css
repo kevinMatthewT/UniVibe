@@ -1,0 +1,13 @@
+.image{
+    margin-left: 100px;
+    position: absolute;
+    scale: 0.5;
+}
+
+.UserProfile{
+    font-size: large;
+}
+
+.HeaderContainer{
+    background-color: blue;
+}
